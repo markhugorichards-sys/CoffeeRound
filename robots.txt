@@ -1,0 +1,3 @@
+# STAGING: block all crawlers until the Shopify production site launches.
+User-agent: *
+Disallow: /
